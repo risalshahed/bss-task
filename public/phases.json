@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Phase 1",
+    "thumbnail": "https://i.ibb.co/X8nDZ0b/phase1.jpg",
+    "description": "Phase 1 A quick brown fox jumps over the lazy dog. Eveniet harum iste voluptate minus perferendis. Necessitatibus, recusandae consequuntur mollitia fugit amet voluptatibus quaerat quas optio eligendi cupiditate omnis maxime libero debitis aliquam. Optio, non! Nisi harum odio laborum maiores obcaecati repudiandae corrupti."
+  },
+  {
+    "id": 2,
+    "title": "Phase 2",
+    "thumbnail": "https://i.ibb.co/ZhXZ02d/phase2.jpg",
+    "description": "Phase 2 The five boxing wizards jump quickly elit. Eveniet harum iste voluptate minus perferendis. Necessitatibus, recusandae consequuntur mollitia fugit amet voluptatibus quaerat quas optio eligendi cupiditate omnis maxime libero debitis aliquam. Optio, non! Nisi harum odio laborum maiores obcaecati repudiandae corrupti."
+  },
+  {
+    "id": 3,
+    "title": "Phase 3",
+    "thumbnail": "https://i.ibb.co/VJ5W55f/phase3.jpg",
+    "description": "Phase 3 Pack my box with five dozen liquor jugs. Eveniet harum iste voluptate minus perferendis. Necessitatibus, recusandae consequuntur mollitia fugit amet voluptatibus quaerat quas optio eligendi cupiditate omnis maxime libero debitis aliquam. Optio, non! Nisi harum odio laborum maiores obcaecati repudiandae corrupti."
+  },
+  {
+    "id": 4,
+    "title": "Phase 4",
+    "thumbnail": "https://i.ibb.co/Gv9b7nb/phase4.jpg",
+    "description": "Phase 4 When zombies arrive, quickly fax judge pat. Eveniet harum iste voluptate minus perferendis. Necessitatibus, recusandae consequuntur mollitia fugit amet voluptatibus quaerat quas optio eligendi cupiditate omnis maxime libero debitis aliquam. Optio, non! Nisi harum odio laborum maiores obcaecati repudiandae corrupti."
+  }
+]

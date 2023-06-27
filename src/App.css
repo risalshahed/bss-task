@@ -1,0 +1,24 @@
+body {
+  max-width: 100%;
+}
+
+.player-wrapper {
+  flex-basis: 75%;
+  height: 400px !important;
+}
+
+.react-player {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+@media (max-width: 719px) {
+  .wrapper-container {
+    align-items: center;
+  }
+  
+  .wrapper-container > div {    
+    border: 1px solid orange;
+    width: 100%;
+  }
+}

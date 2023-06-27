@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="94px" height="94px" viewBox="0 0 94 94" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>A5280267-E5B6-4C36-AB72-1334744B3B70</title>
+    <g id="UX-Exam" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing_2_DT" transform="translate(-763.000000, -1273.000000)">
+            <g id="Video-block" transform="translate(0.000000, 519.000000)">
+                <g id="component/video-player" transform="translate(375.000000, 539.000000)">
+                    <g id="icon/play_DT" transform="translate(388.000000, 215.000000)">
+                        <circle id="Oval" fill="#00BFB2" cx="46.9410394" cy="46.9410394" r="46.9410394"></circle>
+                        <path d="M38.9570098,23.0307145 L65.3650973,43.7967388 C67.1016466,45.1622759 67.4024113,47.6770139 66.0368742,49.4135631 C65.8404303,49.6633803 65.6149144,49.8888961 65.3650973,50.08534 L38.9570098,70.8513643 C37.2204605,72.2169015 34.7057226,71.9161367 33.3401854,70.1795874 C32.7858486,69.4746391 32.4844861,68.6038589 32.4844861,67.7070637 L32.4844861,26.1750151 C32.4844861,23.9658761 34.2753471,22.1750151 36.4844861,22.1750151 C37.3812812,22.1750151 38.2520614,22.4763777 38.9570098,23.0307145 Z" id="icon_Play" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "video": "https://www.youtube.com/watch?v=RebA5J-rlwg",
+    "title": "Learn Prisma",
+    "description": "Prisma is an incredibly popular ORM and for good reason. It is feature rich, type safe, and built on modern JavaScript concepts."
+  },
+  {
+    "id": 2,
+    "video": "https://www.youtube.com/watch?v=r8Dg0KVnfMA",
+    "title": "Learn React Query",
+    "description": "TanStack Query (also known as React Query) is easy to use and it gives you so many features."
+  },
+  {
+    "id": 3,
+    "video": "https://www.youtube.com/watch?v=986hztrfaSQ",
+    "title": "Next.js 13 Application",
+    "description": "Next.js has the potential to revolutionize the industry and forever change the way we develop web applications."
+  }
+]

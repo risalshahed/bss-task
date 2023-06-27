@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="34px" height="34px" viewBox="0 0 34 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1B3ED36F-22CD-45F5-8A0B-0A1F2EC7DD9D</title>
+    <g id="UX-Exam" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Landing_2_DT" transform="translate(-1493.000000, -1530.000000)">
+            <rect fill="#FFFFFF" x="0" y="0" width="1920" height="1765"></rect>
+            <g id="Video-block" transform="translate(0.000000, 519.000000)">
+                <rect id="Rectangle" fill="#004C45" x="1245" y="539" width="300" height="524"></rect>
+                <text id="Watch-next-video" font-family="OpenSans-Semibold, Open Sans" font-size="18" font-weight="500" letter-spacing="0.3" fill="#FFFFFF">
+                    <tspan x="1275" y="1031">Watch next video</tspan>
+                </text>
+                <g id="right-arrow" transform="translate(1475.000000, 993.000000)">
+                    <rect id="Rectangle" fill="#00BFB2" x="0" y="0" width="70" height="70"></rect>
+                    <g id="icon/arrow_right" transform="translate(18.500000, 18.500000)" stroke="#FFFFFF" stroke-linecap="round" stroke-width="3.6">
+                        <line x1="1.97029433" y1="15.989502" x2="29.2788881" y2="15.989502" id="Path-5-Copy-2"></line>
+                        <polyline id="Path-6-Copy-2" stroke-linejoin="round" transform="translate(25.322266, 16.500000) rotate(-360.000000) translate(-25.322266, -16.500000) " points="19.8222656 26.239502 30.8222656 15.8980115 19.8222656 6.76049805"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
