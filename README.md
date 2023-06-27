@@ -6,4 +6,6 @@
 * Youtube videos embedded
 
 ## Technologies
-React, Tailwind
+* React JS
+* Tailwind CSS
+* Material-Tailwind
